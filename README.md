@@ -26,7 +26,7 @@ This project implements a real-time helmet detection system for motorcycle rider
 
 1. Clone the repository:
 ```bash
-git clone [https://github.com/HimadeepRagiri/ML-and-DL-Projects.git]
+git clone [https://github.com/HimadeepRagiri/Bike_Helmet_Detection.git]
 cd Bike_Helmet_Detection
 ```
 
